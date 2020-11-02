@@ -1,0 +1,23 @@
+
+.container {
+    background-color: white;
+    height: 100vh;
+}
+
+.page-title {
+    margin: 0 0 30px;
+    padding-top: 20px;
+}
+
+.map {
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    margin: 20px 0 20px;
+}
+
+.geography,
+.see-more-list {
+    display: inline-block;
+}
+
